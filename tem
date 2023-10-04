@@ -1,0 +1,13 @@
+let kelvin=330 //este es una variable de grados kelvin*/
+const Celsius= kelvin -273
+console.log(Celsius) //hola que tal*/
+
+
+var fahrenheit=Celsius *(9/5) +32 //tambien vamos a calcular los grados fahrenteit*
+
+
+var fahrenheit=Celsius *(9/5) +32 //tambien vamos a calcular los grados fahrenteit*
+console.log(`The temperature is ${fahrenheit} degrees Fahrenheit`)
+
+let Newton= Celsius *(33/100)
+console.log(Math.floor(Newton))
